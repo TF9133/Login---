@@ -1,0 +1,22 @@
+
+header li {
+    display:inline;
+    margin-right: 2vw;
+    height: 100px;
+    width: 100%;
+}
+header ul {
+  position: absolute;
+  right: 3vw;
+  top: 0;
+  line-height: 95px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+header a:hover {
+    text-decoration: underline;
+}
+
